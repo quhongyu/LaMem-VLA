@@ -1,1 +1,3 @@
-# LaMem-VLA
+#  Dual Latent Memory  in Vision-Language-Action Models for Robotic Manipulation
+
+## Codes will be released soon...
